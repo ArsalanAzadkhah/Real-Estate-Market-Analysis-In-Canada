@@ -15,9 +15,9 @@ The project begins with data exploration to understand the structure and charact
 
 The analysis focuses on exploring patterns and trends in the real estate market, including:
 
-1.Analyzing housing prices based on cities and provinces, comparing them to median family income.
-2.Visualizing the top expensive cities and provinces in Canada.
-3.Identifying any correlations between housing prices, the number of bedrooms and bathrooms, and other parameters.
+1. Analyzing housing prices based on cities and provinces, comparing them to median family income.
+2. Visualizing the top expensive cities and provinces in Canada.
+3. Identifying any correlations between housing prices, the number of bedrooms and bathrooms, and other parameters.
 
 ## Results and Insights
 
